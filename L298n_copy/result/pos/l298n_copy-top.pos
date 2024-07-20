@@ -1,0 +1,27 @@
+### Footprint positions - created on Sat Jul 20 22:06:47 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                                     PosX       PosY       Rot  Side
+C1        220uF/25V        CP_Elec_10x10                                            82.2600   -99.0675  -90.0000  top
+C2        220V/35V         CP_Elec_10x10                                            89.8600   -85.5375  -90.0000  top
+D1        M4               D_SMA                                                   101.5800   -74.5500  -90.0000  top
+D2        M4               D_SMA                                                    98.0600   -74.5300  -90.0000  top
+D3        M4               D_SMA                                                    94.5200   -74.5200  -90.0000  top
+D4        M4               D_SMA                                                   105.1200   -74.5100  -90.0000  top
+D5        M4               D_SMA                                                   104.8500  -109.3800  -90.0000  top
+D6        M4               D_SMA                                                    94.2000  -109.3825  -90.0000  top
+D7        M4               D_SMA                                                    97.7200  -109.3900  -90.0000  top
+D8        M4               D_SMA                                                   101.3000  -109.3825  -90.0000  top
+D9        LED              R_0603_1608Metric                                        80.6200   -90.4800    0.0000  top
+J1        TB003-500-P02BE  CUI_TB003-500-P02BE                                      87.5600   -74.3275  180.0000  top
+J2        TB003-500-P02BE  CUI_TB003-500-P02BE                                      82.9300  -109.5600    0.0000  top
+J3        TB003-500-P03BE  CUI_TB003-500-P03BE                                      74.9200   -78.0400  -90.0000  top
+J4        Conn_01x02_Pin   PinHeader_1x02_P2.54mm_Vertical                          81.6400   -84.0350  180.0000  top
+J5        Conn_01x02_Pin   PinHeader_1x02_P2.54mm_Vertical                          72.6600  -106.4100   90.0000  top
+J6        Conn_01x02_Pin   PinHeader_1x02_P2.54mm_Vertical                          75.2000   -92.6700  -90.0000  top
+J7        Conn_01x04_Pin   PinHeader_1x04_P2.54mm_Vertical                          72.6600   -95.6100    0.0000  top
+R1        1K               R_0603_1608Metric                                        82.7000   -87.8200   90.0000  top
+U1        L298N            TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical    97.3900   -83.7100  -90.0000  top
+U2        UA78M05IDCY      Texas_Instruments-DCY0004A-0-0-0                         91.6750   -98.8000  180.0000  top
+## End

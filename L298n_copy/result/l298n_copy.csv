@@ -1,0 +1,12 @@
+"Id";"지정자";"풋프린트";"수량";"지정";"공급자와 참조";
+1;"J2,J1";"CUI_TB003-500-P02BE";2;"TB003-500-P02BE";;;
+2;"D4,D2,D1,D3,D7,D6,D5,D8";"D_SMA";8;"M4";;;
+3;"C2";"CP_Elec_10x10";1;"220V/35V";;;
+4;"J6,J4,J5";"PinHeader_1x02_P2.54mm_Vertical";3;"Conn_01x02_Pin";;;
+5;"J7";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
+6;"D9";"R_0603_1608Metric";1;"LED";;;
+7;"R1";"R_0603_1608Metric";1;"1K";;;
+8;"C1";"CP_Elec_10x10";1;"220uF/25V";;;
+9;"U2";"Texas_Instruments-DCY0004A-0-0-0";1;"UA78M05IDCY";;;
+10;"J3";"CUI_TB003-500-P03BE";1;"TB003-500-P03BE";;;
+11;"U1";"TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical";1;"L298N";;;
